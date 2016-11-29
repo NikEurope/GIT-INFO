@@ -2,13 +2,14 @@
 #GIT INFO
 
 
-RawGit serves raw files directly from GitHub with proper Content-Type headers.
+##RawGit serves raw files directly from GitHub with proper Content-Type headers.
 
 https://rawgit.com/
 
 
 
 Envoyer le dossier sur GIt Hub:
+
 ls – ou je suis
 
 
@@ -40,7 +41,7 @@ Password for 'https://NikEurope@github.com': PASSE
 --------------------------------------------------------------------------------------------------
 
 
-EN + :
+##EN + :
 
 
 git clone https://github.com/.../nomProjet.git    - Importer un dossier depuis github
