@@ -2,13 +2,13 @@
 #GIT INFO
 
 
-##RawGit serves raw files directly from GitHub with proper Content-Type headers.
+RawGit serves raw files directly from GitHub with proper Content-Type headers.
 
 https://rawgit.com/
 
 
 
-Envoyer le dossier sur GIt Hub:
+##Envoyer le dossier sur GIt Hub:
 
 ls – ou je suis
 
