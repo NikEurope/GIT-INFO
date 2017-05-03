@@ -23,20 +23,23 @@ git init
 
 
 git add .
+(ou git add : choisir son modif / ou git add -i  > u  > 1-5 ( fichiers a choisir) > entre >q > entre)
 
+git status
 
-git commit -m “SITEBASE”
+git commit -m “Commite SITE-BASE-1.2”
 
 
 git remote add origin  https://github.com/NikEurope/SB.git   -  adresse  de dossier
 
 
-git push -u origin master
+git push -u origin master  / dev  / integration  etc ....
 
 
 Cofirmer : Username for 'https://github.com': USER
 Password for 'https://NikEurope@github.com': PASSE
 
+git status
 
 --------------------------------------------------------------------------------------------------
 
