@@ -12,15 +12,13 @@ https://rawgit.com/
 
 ls – ou je suis
 
+pwd - chemin complet - ex : /var/www/html/site
 
 cd Bureau
 
-
 cd site
 
-
 git init
-
 
 git add .
 (ou git add : choisir son modif / ou git add -i  > u  > 1-5 ( fichiers a choisir) > entre >q > entre)
